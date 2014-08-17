@@ -4,7 +4,8 @@ License CC-BY-NC-SA
 Instructions:
 Extract RftC folder inside archive to GameData
 
-Requirements: see below for which mods' parts are rescaled etc.
+Requirements:
+Firespitter is required for texture-switching. TweakScale is highly recommended; parts will not function as designed without it. See above for which mods' parts are rescaled etc. You will need the mod if you want the RftC version(s) of the part(s).
 Best with Realism Overhaul.
 
 Description:
